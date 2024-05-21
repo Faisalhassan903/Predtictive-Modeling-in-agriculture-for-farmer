@@ -1,4 +1,5 @@
- Predtivive-Modeling-in-agriculture-for-farmer
+ Predtic
+ ive-Modeling-in-agriculture-for-farmer
 
 # Crop Selection Project
 
